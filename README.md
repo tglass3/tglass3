@@ -11,12 +11,6 @@
 <hr>
 <br>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/talglass99?si=c4c7f743d51f4e02)
-
-<br>
-<hr>
-<br>
-
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
 
