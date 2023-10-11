@@ -1,33 +1,34 @@
 # UX and Web Design
 
-<p align="center">
-<br>
 
+<br>
+<p align="center">
   <img src="images/Full-Color-Logotype.png" alt="Logo" width="300">
 </p>
 <br>
 
 <hr>
 <br>
-<br>
 
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
+
+<br>
+<br>
 <p align="right" style="text-align: right">
 here you'll find...
-<br>
 <br>
 <br>
 <br>
 visitors
 <br>bio blurb
 <br>how i code
-<br>what i code
-<br>ring me up
+<br>how to reach me
 </p>
 
-<br>
 
+<br>
+<br>
 <br>
 <br>
 <hr>
@@ -78,54 +79,34 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <br>
 <hr>
 
 <br>
-
-<p align="center">
+<img src="images/photo-3.png" alt="photo-3" width="200" align="right"></img>
+<br>
+<img src="images/photo-4.png" alt="photo-4" width="200" align="right"></img>
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tglass3&layout=donut)](https://github.com/tglass3/github-readme-stats)
 
-</p>
 
-
-
-
-
-<hr>
-
-<br>
-
-<img src="images/photo-3.png" alt="photo-3" width="200" align="left"></img>
-
-<p align="right">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=diy-landing-page-starter)](https://github.com/tglass/github-readme-stats)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=Puzzle-Game-Lock-Screen)](https://github.com/tglass/github-readme-stats)
-
-</p>
 
 <br>
 <br>
-
+<br>
 <hr>
 <br>
-<p align="center">
-<h4>thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</h4>
-<br>
+
+<p align="center">>thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</p>
 
 <br>
-<br>
-<a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a>
+<p align="center"><a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a></p>
 
 <br>
 
-<img src="images/photo-4.png" width="200">
+<p align="center"><img src="images/photo-4.png" width="200"></p>
 
 </p>
