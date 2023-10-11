@@ -21,11 +21,11 @@
 <br>
 <br>
 <font size="4">
-<li>visitors</li>
-<li>bio blurb</li>
-<li>how i code</li>
-<li>what i code</li>
-<li>ring me up</li>
+visitors
+<br>bio blurb
+<br>how i code
+<br>what i code
+<br>ring me up
 </font></div>
 
 <br>
@@ -73,8 +73,42 @@ primarily a graphic designer, but i also dabble in web. started with some highsc
 <br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree but ended up in design.
 <br>
 special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
-<br>GSAP, Javascript, and still expanding my toolbelt.
+<br>Lua, Javascript, and still expanding my toolbelt.
 </font></div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tglass3&layout=donut)](https://github.com/tglass3/github-readme-stats)
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<img src="images/photo-3.png" alt="photo-3" width="200" align="left"></img>
+
+<div align="right" >
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=diy-landing-page-starter)](https://github.com/tglass/github-readme-stats)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=Puzzle-Game-Lock-Screen)](https://github.com/tglass/github-readme-stats)
+
+</div>
 
 <br>
 <br>
