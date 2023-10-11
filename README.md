@@ -98,10 +98,10 @@ primarily a graphic designer, but i also dabble in web. started with some highsc
 <hr>
 <br>
 
-<p align="center">>thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</p>
+<p align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</p>
 
 <br>
-<p align="center"><a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a></p>
+<p align="center"><a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="https://discord.com/channels/@tilapiyawn"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a></p>
 
 <br>
 
