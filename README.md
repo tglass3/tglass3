@@ -6,8 +6,7 @@
   <img src="images/Full-Color-Logotype.png" alt="Logo" width="300">
 
 <br>
-<br>
-<br>
+
 <hr>
 <br>
 <br>
@@ -29,11 +28,11 @@ visitors
 </font></div>
 
 <br>
-<br>
+
 <br>
 <br>
 <hr>
-<br>
+
 <br>
 
 <a href="https://github.com/tglass3/tglass3/issues/1"><img src="images/photo-5.png" alt="Enchiridion" width="300" ></a>
@@ -54,10 +53,10 @@ visitors
 
 
 <br>
-<br>
+
 <br>
 <hr>
-<br>
+
 <br>
 
 <div align="left" >
@@ -80,10 +79,10 @@ special interest in UX and UI, some interest in front end web. experience with H
 <br>
 <br>
 <br>
-<br>
+
 <br>
 <hr>
-<br>
+
 <br>
 
 <div align="center">
@@ -92,12 +91,12 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
+
+
+
+
 <hr>
-<br>
+
 <br>
 
 <img src="images/photo-3.png" alt="photo-3" width="200" align="left"></img>
@@ -112,11 +111,14 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <br>
 <br>
-<br>
-<br>
+
 <hr>
 <br>
+<font size="2" align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</font>
 <br>
+<br>
+<font color=">
+<a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a>
 
 
 
