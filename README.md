@@ -28,7 +28,8 @@ visitors
 </font></div>
 
 <br>
-
+<br>
+<br>
 <br>
 <br>
 <hr>
@@ -75,6 +76,7 @@ special interest in UX and UI, some interest in front end web. experience with H
 <br>Lua, Javascript, and still expanding my toolbelt.
 </font></div>
 
+<br>
 <br>
 <br>
 <br>
