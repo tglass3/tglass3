@@ -33,24 +33,25 @@ visitors
 <hr>
 
 <br>
-<p align="center">
 
-<a href="https://github.com/tglass3/tglass3/issues/1"><img src="images/photo-5.png" alt="Enchiridion" width="300" ></a>
+<p align="center">
+<a href="https://github.com/tglass3/tglass3/issues/1"><img src="images/photo-5.png" alt="Enchiridion" width="300" align="center"></a></p>
+
 <br>
-<br>
-<br>
-<h2>sign my guestbook?</h2>
-<br>
+<h3 align="center" text-align="center">sign my guestbook?</h3>
+
+
+<!-- <p align="right" text-align="right">
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
+<!-- | Name | Date | Message |
+|---|---|---| -->
 
 <!-- /Guestbook -->
 <!-- Still figuring this one out -->
 
 
 
-</p>
+
 
 <br>
 
@@ -102,7 +103,7 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <img src="images/photo-3.png" alt="photo-3" width="200" align="left"></img>
 
-<p align="right" >
+<p align="right">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=diy-landing-page-starter)](https://github.com/tglass/github-readme-stats)
 <br>
