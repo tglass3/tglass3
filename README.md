@@ -116,10 +116,14 @@ special interest in UX and UI, some interest in front end web. experience with H
 <br>
 <font size="2" align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</font>
 <br>
+
+<br>
 <br>
 <font color=">
 <a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a>
 
+<br>
 
+<img src="images/photo-4.png" width="200">
 
 </div>
