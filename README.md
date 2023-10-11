@@ -43,6 +43,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
+| <a href="---"><img width="24" src="---" alt="---" /> </a> | --- | --- |
 
 <!-- /Guestbook -->
 
