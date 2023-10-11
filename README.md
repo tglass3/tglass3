@@ -13,19 +13,18 @@
 
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
-<div align="right" style="text-align: right">
-<h3>here you'll find...</h3>
+<p align="right" style="text-align: right">
+## here you'll find...
 <br>
 <br>
 <br>
 <br>
-<h4>
 visitors
 <br>bio blurb
 <br>how i code
 <br>what i code
 <br>ring me up
-</h4></div>
+</div>
 
 <br>
 
