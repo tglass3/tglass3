@@ -13,7 +13,7 @@
 
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
-<p align="right" style="text-align: right">
+<div align="right" style="text-align: right">
 ## here you'll find...
 <br>
 <br>
