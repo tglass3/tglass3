@@ -39,6 +39,12 @@
 <br>
 <br>
 <font size="6">sign my guestbook?</font>
+<br>
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+
+<!-- /Guestbook -->
 
 
 
