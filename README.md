@@ -30,6 +30,8 @@
 
 <br>
 <br>
+<br>
+<br>
 <hr>
 <br>
 <br>
@@ -58,20 +60,30 @@
 <br>
 <br>
 
+<div align="left" >
 <img src="images/photo-2.png" alt="photo-2" width="200" align="right"></img>
 
-<div align="left" style="text-align: left">
-<font size="5">here you'll find...</font>
 <br>
 <br>
+<font size="5">hey, that's me!</font>
 <br>
 <br>
-<font size="4">
-<li>visitors</li>
-<li>bio blurb</li>
-<li>how i code</li>
-<li>what i code</li>
-<li>ring me up</li>
+<font size="3">
+primarily a graphic designer, but i also dabble in web. started with some highschool
+<br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree but ended up in design.
+<br>
+special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
+<br>GSAP, Javascript, and still expanding my toolbelt.
 </font></div>
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
 
 </div>
