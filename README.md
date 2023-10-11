@@ -70,9 +70,8 @@ visitors
 <br>
 <p align="left">
 primarily a graphic designer, but i also dabble in web. started with some highschool
-<br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree but ended up in design.
-<br>
-special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
+<br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree
+<br>but ended up in design. special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
 <br>Lua, Javascript, and still expanding my toolbelt.
 </p>
 
