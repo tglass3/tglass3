@@ -60,21 +60,21 @@ visitors
 
 <br>
 
-<p align="left" >
+
 <img src="images/photo-2.png" alt="photo-2" width="200" align="right"></img>
 
 <br>
 <br>
-<h3>hey, that's me!</3>
+<h3 align="left" >hey, that's me!</h3>
 <br>
 <br>
-<h4>
+<p align="left">
 primarily a graphic designer, but i also dabble in web. started with some highschool
 <br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree but ended up in design.
 <br>
 special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
 <br>Lua, Javascript, and still expanding my toolbelt.
-</h4></p>
+</p>
 
 <br>
 <br>
