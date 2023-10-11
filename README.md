@@ -7,6 +7,13 @@
 </p>
 <br>
 
+<br>
+<hr>
+<br>
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/talglass99?si=c4c7f743d51f4e02)
+
+<br>
 <hr>
 <br>
 
@@ -105,6 +112,6 @@ primarily a graphic designer, but i also dabble in web. started with some highsc
 
 <br>
 
-<p align="center"><img src="images/photo-4.png" width="200"></p>
+<p align="center"><img src="images/photo-6.png" width="200"></p>
 
 </p>
