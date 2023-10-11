@@ -14,22 +14,21 @@
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
 <div align="right" style="text-align: right">
-<font size="5">here you'll find...</font>
+<h3>here you'll find...</h3>
 <br>
 <br>
 <br>
 <br>
-<font size="4">
+<h4>
 visitors
 <br>bio blurb
 <br>how i code
 <br>what i code
 <br>ring me up
-</font></div>
+</h4></div>
 
 <br>
-<br>
-<br>
+
 <br>
 <br>
 <hr>
@@ -40,7 +39,7 @@ visitors
 <br>
 <br>
 <br>
-<font size="6">sign my guestbook?</font>
+<h2>sign my guestbook?</h2>
 <br>
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -65,16 +64,16 @@ visitors
 
 <br>
 <br>
-<font size="5">hey, that's me!</font>
+<h3>hey, that's me!</3>
 <br>
 <br>
-<font size="3">
+<h4>
 primarily a graphic designer, but i also dabble in web. started with some highschool
 <br>classes and fell in love with javascript. couldn't tell you why. considered a CS degree but ended up in design.
 <br>
 special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
 <br>Lua, Javascript, and still expanding my toolbelt.
-</font></div>
+</h4></div>
 
 <br>
 <br>
@@ -116,12 +115,11 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <hr>
 <br>
-<font size="2" align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</font>
+<h4 align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</h4>
 <br>
 
 <br>
 <br>
-<font color=">
 <a href="https://www.instagram.com/tilapiyawn/"><img src="Social_Media/Minimalistic_Shaded/Instagram.png" alt="Instagram" width="35"></a>. . . .<a href="https://www.linkedin.com/in/talia-glass-712489237/"><img src="Social_Media/Minimalistic_Shaded/LinkedIn.png" width="35"></a>. . . .<a href="discordapp.com/users/553302297527189525"><img src="Social_Media/Minimalistic_Shaded/Discord.png" width="35"></a>
 
 <br>
