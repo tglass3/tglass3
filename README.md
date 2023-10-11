@@ -1,10 +1,10 @@
 # UX and Web Design
 
-<div align="center">
+<p align="center">
 <br>
 
   <img src="images/Full-Color-Logotype.png" alt="Logo" width="300">
-
+</p>
 <br>
 
 <hr>
@@ -13,8 +13,8 @@
 
 <img src="images/photo-1.png" alt="photo-1" width="200" align="left"></img>
 
-<div align="right" style="text-align: right">
-## here you'll find...
+<p align="right" style="text-align: right">
+here you'll find...
 <br>
 <br>
 <br>
@@ -24,7 +24,7 @@ visitors
 <br>how i code
 <br>what i code
 <br>ring me up
-</div>
+</p>
 
 <br>
 
@@ -33,6 +33,7 @@ visitors
 <hr>
 
 <br>
+<p align="center">
 
 <a href="https://github.com/tglass3/tglass3/issues/1"><img src="images/photo-5.png" alt="Enchiridion" width="300" ></a>
 <br>
@@ -49,7 +50,7 @@ visitors
 
 
 
-
+</p>
 
 <br>
 
@@ -58,7 +59,7 @@ visitors
 
 <br>
 
-<div align="left" >
+<p align="left" >
 <img src="images/photo-2.png" alt="photo-2" width="200" align="right"></img>
 
 <br>
@@ -72,7 +73,7 @@ primarily a graphic designer, but i also dabble in web. started with some highsc
 <br>
 special interest in UX and UI, some interest in front end web. experience with HTML, CSS,
 <br>Lua, Javascript, and still expanding my toolbelt.
-</h4></div>
+</h4></p>
 
 <br>
 <br>
@@ -85,11 +86,11 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <br>
 
-<div align="center">
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tglass3&layout=donut)](https://github.com/tglass3/github-readme-stats)
 
-</div>
+</p>
 
 
 
@@ -101,20 +102,21 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <img src="images/photo-3.png" alt="photo-3" width="200" align="left"></img>
 
-<div align="right" >
+<p align="right" >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=diy-landing-page-starter)](https://github.com/tglass/github-readme-stats)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tglass3&repo=Puzzle-Game-Lock-Screen)](https://github.com/tglass/github-readme-stats)
 
-</div>
+</p>
 
 <br>
 <br>
 
 <hr>
 <br>
-<h4 align="center">thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</h4>
+<p align="center">
+<h4>thanks for visiting! here's where you can ring me up for commissions, collabs, job opportunities, or a nice chat</h4>
 <br>
 
 <br>
@@ -125,4 +127,4 @@ special interest in UX and UI, some interest in front end web. experience with H
 
 <img src="images/photo-4.png" width="200">
 
-</div>
+</p>
